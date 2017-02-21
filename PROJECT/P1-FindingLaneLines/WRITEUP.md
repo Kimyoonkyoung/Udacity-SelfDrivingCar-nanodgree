@@ -13,7 +13,7 @@
 ###1. canny edge
 before find canny edge, Gaussian Blur was performed.
 
-<img src="/writeup_images/cannyedge.png" width="600"></img>
+![alt text][image1]
 
 ###2. hough line
 And then, hough line transform performed on ROI.
