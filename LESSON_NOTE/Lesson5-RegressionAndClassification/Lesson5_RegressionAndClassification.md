@@ -38,3 +38,11 @@ Discrete 한 output 이라면, Classification
 6. Sample (= training set)
 7. Candidate
 8. Testing Set
+
+### 배운 내용
+1. historical fact
+2. model selection and under/over fitting
+3. cross validation
+4. linear, polynomial regression
+5. best constant in terms of squared error
+6. representation for regression
