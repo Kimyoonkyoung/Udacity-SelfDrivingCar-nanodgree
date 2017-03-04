@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2121551-f330-4b7d-84f0-7affae5f59b3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson5-RegressionAndClassification/Lesson5_RegressionAndClassification.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/FindingLaneLines/ColorSelection.py" afterPath="$PROJECT_DIR$/P1-FindingLaneLines/ColorSelection.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/FindingLaneLines/P1.ipynb" afterPath="$PROJECT_DIR$/P1-FindingLaneLines/P1.ipynb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/FindingLaneLines/README.md" afterPath="$PROJECT_DIR$/P1-FindingLaneLines/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/FindingLaneLines/laneLines_thirdPass.jpg" afterPath="$PROJECT_DIR$/P1-FindingLaneLines/laneLines_thirdPass.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/FindingLaneLines/writeup_template.md" afterPath="$PROJECT_DIR$/P1-FindingLaneLines/writeup_template.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/BackPropagation/miniflow.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/BackPropagation/nn.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/BostonHouseExample/miniflow.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/BostonHouseExample/nn.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/Miniflow/miniflow.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/Miniflow/nn.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/ForwardPropagation/miniflow.py" afterPath="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/ForwardPropagation/miniflow.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/ForwardPropagation/nn.py" afterPath="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/ForwardPropagation/nn.py" />
     </list>
     <ignored path="Udacity-SelfDrivingCar-nanodgree.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,16 +29,25 @@
     <favorites_list name="Udacity-SelfDrivingCar-nanodgree" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Lesson5_RegressionAndClassification.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lesson5-RegressionAndClassification/Lesson5_RegressionAndClassification.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="585">
-                <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
-                <folding />
-              </first_editor>
-              <second_editor />
+    <leaf>
+      <file leaf-file-name="nn.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/BostonHouseExample/nn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
+              <folding>
+                <element signature="e#241#259#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="miniflow.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/BostonHouseExample/miniflow.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="539">
+              <caret line="156" column="0" selection-start-line="156" selection-start-column="0" selection-end-line="156" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -57,13 +69,25 @@
       <list>
         <option value="$PROJECT_DIR$/FindingLaneLines/ColorSelection.py" />
         <option value="$PROJECT_DIR$/Lesson5-RegressionAndClassification/Lesson5_RegressionAndClassification.md" />
+        <option value="$PROJECT_DIR$/PROJECT/P1-FindingLaneLines/WRITEUP.md" />
+        <option value="$PROJECT_DIR$/LESSON_NOTE/Lesson5-RegressionAndClassification/Lesson5_RegressionAndClassification.md" />
+        <option value="$PROJECT_DIR$/LESSON_NOTE/Lesson6-Neuralnet/Lesson6_Neuralnet.md" />
+        <option value="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/forwardPropagation.py" />
+        <option value="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/.ipynb_checkpoints/miniflow-checkpoint.ipynb" />
+        <option value="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/ForwardPropagation/miniflow.py" />
+        <option value="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/ForwardPropagation/nn.py" />
+        <option value="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/Miniflow/nn.py" />
+        <option value="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/Miniflow/miniflow.py" />
+        <option value="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/BackPropagation/nn.py" />
+        <option value="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/BackPropagation/miniflow.py" />
+        <option value="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/BostonHouseExample/nn.py" />
+        <option value="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/BostonHouseExample/miniflow.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="842" />
     <option name="y" value="23" />
-    <option name="width" value="1001" />
+    <option name="width" value="1631" />
     <option name="height" value="980" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -91,7 +115,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -121,12 +144,133 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="LESSON_NOTE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Udacity-SelfDrivingCar-nanodgree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Udacity-SelfDrivingCar-nanodgree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LESSON_NOTE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lesson7-Miniflow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Udacity-SelfDrivingCar-nanodgree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Udacity-SelfDrivingCar-nanodgree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LESSON_NOTE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lesson7-Miniflow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BostonHouseExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Udacity-SelfDrivingCar-nanodgree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Udacity-SelfDrivingCar-nanodgree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LESSON_NOTE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lesson7-Miniflow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BackPropagation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Udacity-SelfDrivingCar-nanodgree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Udacity-SelfDrivingCar-nanodgree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LESSON_NOTE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lesson7-Miniflow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".ipynb_checkpoints" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Udacity-SelfDrivingCar-nanodgree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Udacity-SelfDrivingCar-nanodgree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LESSON_NOTE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lesson6-Neuralnet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Udacity-SelfDrivingCar-nanodgree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Udacity-SelfDrivingCar-nanodgree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LESSON_NOTE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Lesson5-RegressionAndClassification" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -134,7 +278,97 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/ForwardPropagation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.nn (3)">
+    <configuration default="false" name="nn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/ForwardPropagation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Udacity-SelfDrivingCar-nanodgree" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/ForwardPropagation/nn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="nn (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/Miniflow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Udacity-SelfDrivingCar-nanodgree" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/Miniflow/nn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="nn (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/BackPropagation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Udacity-SelfDrivingCar-nanodgree" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/BackPropagation/nn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="miniflow" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/BostonHouseExample" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Udacity-SelfDrivingCar-nanodgree" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/BostonHouseExample/miniflow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="nn (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/BostonHouseExample" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Udacity-SelfDrivingCar-nanodgree" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/BostonHouseExample/nn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -269,6 +503,22 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.nn" />
+      <item index="1" class="java.lang.String" itemvalue="Python.nn (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.nn (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.miniflow" />
+      <item index="4" class="java.lang.String" itemvalue="Python.nn (3)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.nn (3)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.nn (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.miniflow" />
+        <item index="3" class="java.lang.String" itemvalue="Python.nn (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.nn" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -284,26 +534,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="842" y="23" width="1001" height="980" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1631" height="980" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.06393606" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16676885" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22063667" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.03183315" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -322,49 +572,193 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/P1-FindingLaneLines/ColorSelection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/P1-FindingLaneLines/ColorSelection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/P1-FindingLaneLines/line-segments-example.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/P1-FindingLaneLines/ColorSelection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson5-RegressionAndClassification/Lesson5_RegressionAndClassification.md">
+    <entry file="file://$PROJECT_DIR$/PROJECT/P1-FindingLaneLines/WRITEUP.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="585">
-            <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
-            <folding />
+          <first_editor relative-caret-position="360">
+            <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LESSON_NOTE/Lesson5-RegressionAndClassification/Lesson5_RegressionAndClassification.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="52" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="52" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LESSON_NOTE/Lesson6-Neuralnet/Lesson6_Neuralnet.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PROJECT/P1-FindingLaneLines/WRITEUP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="345">
+            <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LESSON_NOTE/Lesson5-RegressionAndClassification/Lesson5_RegressionAndClassification.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="52" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="52" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LESSON_NOTE/Lesson6-Neuralnet/Lesson6_Neuralnet.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PROJECT/P1-FindingLaneLines/WRITEUP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="525">
+            <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson5-RegressionAndClassification/Lesson5_RegressionAndClassification.md" />
+    <entry file="file://$PROJECT_DIR$/P1-FindingLaneLines/ColorSelection.py" />
+    <entry file="file://$PROJECT_DIR$/P1-FindingLaneLines/ColorSelection.py" />
+    <entry file="file://$PROJECT_DIR$/P1-FindingLaneLines/line-segments-example.jpg" />
+    <entry file="file://$PROJECT_DIR$/P1-FindingLaneLines/ColorSelection.py" />
+    <entry file="file://$PROJECT_DIR$/Lesson5-RegressionAndClassification/Lesson5_RegressionAndClassification.md" />
+    <entry file="file://$PROJECT_DIR$/LESSON_NOTE/Lesson5-RegressionAndClassification/Lesson5_RegressionAndClassification.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="52" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="52" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PROJECT/P1-FindingLaneLines/WRITEUP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="360">
+            <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LESSON_NOTE/Lesson6-Neuralnet/Lesson6_Neuralnet.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/.ipynb_checkpoints/miniflow-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/miniflow.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/ForwardPropagation/miniflow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="79" column="21" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/ForwardPropagation/nn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/Miniflow/miniflow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="105" column="20" selection-start-line="105" selection-start-column="20" selection-end-line="105" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/Miniflow/nn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="e#243#261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/BackPropagation/miniflow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="162" column="16" selection-start-line="162" selection-start-column="16" selection-end-line="162" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/BackPropagation/nn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding>
+            <element signature="e#185#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/BostonHouseExample/nn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
+          <folding>
+            <element signature="e#241#259#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LESSON_NOTE/Lesson7-Miniflow/BostonHouseExample/miniflow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="156" column="0" selection-start-line="156" selection-start-column="0" selection-end-line="156" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

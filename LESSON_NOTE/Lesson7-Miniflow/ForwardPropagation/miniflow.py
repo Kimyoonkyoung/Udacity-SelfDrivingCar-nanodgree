@@ -72,6 +72,40 @@ class Add(Node):
         for i in range(len(self.inbound_nodes)):
             self.value = self.value + self.inbound_nodes[i].value
 
+class Mul(Node):
+    # You may need to change this...
+    def __init__(self, *inputs):
+        Node.__init__(self, inputs)
+
+    def forward(self):
+        self.value = 1
+        for i in range(len(self.inbound_nodes)):
+            self.value = self.value * self.inbound_nodes[i].value
+
+class Linear(Node):
+    def __init__(self, inputs, weights, bias):
+        Node.__init__(self, [inputs, weights, bias])
+
+        # NOTE: The weights and bias properties here are not
+        # numbers, but rather references to other nodes.
+        # The weight and bias values are stored within the
+        # respective nodes.
+
+    def forward(self):
+        """
+        Set self.value to the value of the linear function output.
+
+        Your code goes here!
+        """
+        inputs = self.inbound_nodes[0].value
+        weights = self.inbound_nodes[1].value
+        bias = self.inbound_nodes[2].value
+        self.value = bias
+        for x, w in zip(inputs, weights):
+            self.value += x * w
+
+
+
 
 """
 No need to change anything below here!
