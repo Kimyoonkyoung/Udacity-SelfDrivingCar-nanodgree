@@ -48,6 +48,23 @@ tf.reduce_sum([1,2,3,4,5]) = 15
 tf.log(100)
 말그대로 로그
 
+tf.relu 
+relu
+
+변수나 모델 저장하기
+saver 사용
+tf.train.Saver.save(sess, file명) 함수
+저장 파일은 *.ckpt (checkpoint)
+
+저장된거 불러오기
+tf.train.Saver.restore(sess, file명)
+save 할때있었던 변수들을 다시 선언해두어야 한다
+
+dropout
+tf.nn.dropout(노드수, 남길노드수)
+1/남길노드
+보통 트레이닝 할때는 0.5로시작
+테스팅에는 1
 
 
 
